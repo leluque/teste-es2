@@ -10,6 +10,9 @@ Atividades de negócio
 Processos de negócio
 ====================
 
+Regras de negócio
+=================
+
 Stakeholders
 ============
 
